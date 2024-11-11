@@ -10,27 +10,27 @@ h1 {
 
 color: darkslateblue;
 
-text-align: right;
+text-align: left;
 
 }
 
 .about {
 
-text-align: right; 
+text-align: left; 
 color: darkorchid;
 
 }
 
 .skills {
 
-    text-align: right; 
+    text-align: left; 
     color: darkorchid;
     
     }
 
 .projects {
 
-text-align: right; 
+text-align: left; 
 color: darkorchid;
 display: flex;
 flex-wrap: wrap;
@@ -48,7 +48,7 @@ border-radius: 25%;
 
 .contact {
 
-    text-align: right; 
+    text-align: left; 
     color: darkorchid;
     
     }
